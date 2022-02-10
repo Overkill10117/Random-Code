@@ -1,8 +1,11 @@
+* {
+  border: 1px solid red;
+}
+* { 
+  font-family: Verdana;
+}
 p {
   color: green;
-}
-h1 {
-  color: blue;
 }
 h2 {
   color: red;
@@ -14,3 +17,7 @@ h4 {
   color: orange;
 }
 
+.title {
+  color: blue;
+  font-family: San Serif;
+}
