@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// This will never stop until you stop the program
 public class Spam {
     private static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
