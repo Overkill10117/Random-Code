@@ -23,3 +23,7 @@ h4 {
   font-weight: bold;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
