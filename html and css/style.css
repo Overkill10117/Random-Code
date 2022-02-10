@@ -21,3 +21,7 @@ h4 {
   color: blue;
   font-family: San Serif;
 }
+
+.bold {
+font-weight: bold;
+}
